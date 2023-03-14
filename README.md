@@ -1,6 +1,7 @@
 # Amazon_Scraper
 
 --> Personal Project
+
 --> Libraries used: bs4, requests and pandas
 
 --> Script that gathers the information of the first 5 products
